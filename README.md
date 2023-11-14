@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kassemsabeh
+- 🌱 I like to train deep models on large datasets.
 - 👀 I’m interested in Natural Language Processing and Information Extraction.
-- 🌱 I’m currently learning whatever I can..
-- 💞️ I’m looking to collaborate on models for infrmation extraction from text
 - 📫 kassemsabeh@gmail.com
 
 <!---

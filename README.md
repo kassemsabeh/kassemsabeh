@@ -9,6 +9,12 @@ I am a PhD student at the [Free University of Bozen-Bolzano](https://www.unibz.i
 - Kassem Sabeh, Mouna Kacimi, and Johann Gamper. 2022. OpenBrand: Open Brand Value Extraction from Product Descriptions. In Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 5), pages 161–170, Dublin, Ireland. Association for Computational Linguistics. [[Paper]](https://aclanthology.org/2022.ecnlp-1.19/), [[Code]](https://paperswithcode.com/paper/?acl=2022.ecnlp-1.19), [[Video]](https://aclanthology.org/2022.ecnlp-1.19.mp4)
 - Hassan Harb, Diana Abi Nader, Kassem Sabeh, and Abdallah Makhoul. "Real-Time Approach for Decision Making in IoT-Based Applications." In International Conference on Sensor Networks. 2022. [[Paper]](https://hal.science/hal-03813004/document)
 
+## Selected Projects
+
+|            **Project**           |   **Description**  |   **Tools**|
+|:-------------------------------------:|:-----------------:|:-----------------:|
+
+
 <!---
 kassemsabeh/kassemsabeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

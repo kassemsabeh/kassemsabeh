@@ -1,4 +1,4 @@
-Hello there 👋
+## Hello there 👋
 
 I am a PhD student at the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/bachelor-computer-science/). I work on the intersection of Natural Language Processing and Information Extraction, with a focus on extracting structured information from text in the E-commerce domain.
 

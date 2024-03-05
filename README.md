@@ -1,8 +1,6 @@
 ## Hello there 👋
 
-I am a PhD student at the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/bachelor-computer-science/). I work on the intersection of Natural Language Processing and Information Extraction, with a focus on extracting structured information from text in the E-commerce domain.
-
-**I just like to train large models on huge datasets!**
+I am a PhD student at the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/bachelor-computer-science/). I work on the intersection of Natural Language Processing and Information Extraction, with a focus on extracting structured information from text in the E-commerce domain, i.e., **I just like to train large models on huge datasets!**
 
 ## Publications
 - Kassem Sabeh, Mouna Kacimi, and Johann Gamper. 2023. GAVI: A Category-Aware Generative Approach for Brand Value Identification. In Proceedings of the 6th International Conference on Natural Language and Speech Processing (ICNLSP 2023), pages 110–119, Online. Association for Computational Linguistics. [[Paper]](https://aclanthology.org/2023.icnlsp-1.11/), [[Code]](https://github.com/kassemsabeh/gavi), [[Demo]](

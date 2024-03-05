@@ -16,7 +16,7 @@ https://bit.ly/3FHZGjU)
 
 ## Contacts
 - Personal Website: [kassemsabeh.github.io/](https://kassemsabeh.github.io/)
-- LinkedIn: [@ksabeh](www.linkedin.com/in/ksabeh)
+- LinkedIn: [ksabeh](www.linkedin.com/in/ksabeh)
 
 
 <!---
